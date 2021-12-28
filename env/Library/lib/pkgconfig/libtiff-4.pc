@@ -1,0 +1,11 @@
+prefix=D:/Heart_disease_prediction/env/Library
+exec_prefix=D:/Heart_disease_prediction/env/Library
+libdir=D:/Heart_disease_prediction/env/Library/lib
+includedir=D:/Heart_disease_prediction/env/Library/include
+
+Name: libtiff
+Description:  Tag Image File Format (TIFF) library.
+Version: 4.2.0
+Libs: -LD:/Heart_disease_prediction/env/Library/lib -ltiff
+Libs.private: 
+Cflags: -ID:/Heart_disease_prediction/env/Library/include
